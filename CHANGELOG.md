@@ -8,5 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## *[0.0.0]* 2026-August-29
 ### Added
-- Imported initial files, created project  
+- Imported initial files, created project. 
+- Apache v2.0 license to be compatible with oficial CVA5 OpenHW Foundation repo.
+- Initial project contributor names.
 
