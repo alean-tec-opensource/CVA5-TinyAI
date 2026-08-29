@@ -1,6 +1,10 @@
 ## Project Members  (sorted alphabetically)
 
-#### [FIRSTname LASTname](about:blank)
+#### [Alfredo Herrera](about:blank)
+* Project Role
+* Repository role(s)
+
+#### [Amirali Ebrahimi](about:blank)
 * Project Role
 * Repository role(s)
 
