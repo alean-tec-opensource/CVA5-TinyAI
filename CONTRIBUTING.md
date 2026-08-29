@@ -1,6 +1,6 @@
 Thank you for contributing to our open-source project! We welcome contributions from all community members.
 
-This project is public and licensed under a [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. You have the freedom to use, study, modify, share and distribute this project under these terms. 
+This project is public and licensed under a [Apache version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) license. You have the freedom to use, study, modify, share and distribute this project under these terms. 
 
 # Governance & Decision-Making
 
