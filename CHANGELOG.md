@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file. Including: 
 ```
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
-## *[0.0.0]* YYYY-mmmm-DD
+## *[0.0.0]* 2026-August-29
 ### Added
 - Imported initial files, created project  
 
