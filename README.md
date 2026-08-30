@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
+[![Governance](https://img.shields.io/badge/Governance-defined-green.svg)](Governance)
+
 # Home
 Welcome to the CVA5-TinyAI Open Source project. The idea for this project is to add to extend the **OpenHW CVA5** core with an AI capable core like the the on epresented in this paper: [e-GPU: An Open-Source and Configurable RISC-V Graphic Processing Unit for TinyAI Applications](https://arxiv.org/abs/2505.08421).
 
