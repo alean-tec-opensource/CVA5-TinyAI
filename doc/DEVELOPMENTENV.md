@@ -46,15 +46,10 @@ To support **core-v-verif** HDL simulation in Verilator, RISC-V compiler toolcha
 - a compiled RISC-V GCC toolchain (to generate test binaries, .elf, and .hex files) 
 - a compatible Verilator build (to compile and run HDL simulations).
 
-|-----------------|-----------------------------------|---------------------------|
 |Tool Domain      | Minimum Required Version          | Key Environment Variables |
 |-----------------|-----------------------------------|---------------------------|
 |RISC-V GCC       | riscv32-unknown-elf-gcc (GCC 12+) | RISCV, RISCV_TOOLCHAIN_PATH, PATH |
-|-----------------|-----------------------------------|---------------------------|
 |Verilator        | v5.008+ (det. by **CORE_V_VERIF**)| VERILATOR_ROOT, PATH |
-|-----------------|-----------------------------------|---------------------------|
 |PULP toolchain   | pulp-gcc / pulp-rt                | PULP_RISCV_GCC_TOOLCHAIN, PULP_SDK_HOME|
-|-----------------|-----------------------------------|---------------------------|
 |AMD Vivado/Vitis |	Vivado 2022.2+                    |XILINX_VIVADO, XILINX_VITIS |
-|-----------------|-----------------------------------|---------------------------|
 
