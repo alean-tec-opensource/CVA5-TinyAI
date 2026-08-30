@@ -7,8 +7,8 @@ The CVA5-TinyAI repository holds the documentation, source files and how-to inst
 
 - [OpenHW CVA5](https://github.com/openhwgroup/cva5)
 - [EPFL's ESL X_HEEP](https://github.com/x-heep/x-heep)
--- [X-HEEP: An Open-Source, Configurable and Extendible RISC-V Platform for TinyAI Applications](https://ieeexplore.ieee.org/document/11130281)
--- [e-GPU: An Open-Source and Configurable RISC-V Graphic Processing Unit for TinyAI Applications](https://arxiv.org/abs/2505.08421)
+  - [X-HEEP: An Open-Source, Configurable and Extendible RISC-V Platform for TinyAI Applications](https://ieeexplore.ieee.org/document/11130281)
+  - [e-GPU: An Open-Source and Configurable RISC-V Graphic Processing Unit for TinyAI Applications](https://arxiv.org/abs/2505.08421)
 - Amir'sCVA5 repo: [CVA5-AI v0.1](https://github.com/AmirAliEbrahimi/cva5)
 
 ## Governance
